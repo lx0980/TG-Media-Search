@@ -56,7 +56,7 @@ It allows you to index files from a source channel/group and provide a fast, sea
 ### Utility Commands
 
 - **/resetdb** – Clean MongoDB database  
-- **/reindex** – Reindex all chat messages  
+- **/reindex** – Reindex chat messages  
 - **/clearcache** – Clear Redis cache (specific chat)  
 - **/restart** – Pull latest commits & restart bot  
 - **/flushredis** – Clear entire Redis database  
