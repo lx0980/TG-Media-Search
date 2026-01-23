@@ -16,7 +16,7 @@ It allows you to index files from a source channel/group and provide a fast, sea
   - Language  
   - Season / Episode  
   - Codec  
-- ⚡ Ultra-fast search using **MongoDB + Redis cache**
+- ⚡ fast search using **MongoDB + Redis cache**
 - ♻️ Duplicate detection using `file_unique_id`
 
 
